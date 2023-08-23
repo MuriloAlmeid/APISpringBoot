@@ -1,0 +1,1 @@
+@GetMapping("/PassarAurl") = Exibir um resultado.
